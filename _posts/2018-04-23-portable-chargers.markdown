@@ -10,17 +10,17 @@ My charging needs:
 - iphone 6 plus (64GB)
 - ipad mini retina (gen2, 64GB)
 
-In the past I have survided by using the "freebie" battery chargers that you can commonaly find given away by red Hat or other vendors as swagi on the summit floor. Some work better than othersi. Some get hot, some have a good intial charge, while others will need to be fully charged before the first use. In practice, I found I was charging the phone all the time. Literally. All. The. Time.
+In the past I have survided by using the "freebie" battery chargers that you can commonaly find given away by Red Hat or other vendors as swag on the summit floor. Some work better than others. Some get hot, some have a good intial charge while others will need to be fully charged before their first use. In practice, I found I was charging the phone all the time. Literally. All. The. Time.
 
 Getting an Uber with a dead phone sucks...
 
-So, now we know the need. Let's getting the pre-purchas research.
+So, now we know the need. Let's getting the pre-purchase research:
 
 - Familiarize yourself with portable device charging standards. I do not currently own a [Quick Charge](https://en.wikipedia.org/wiki/Quick_Charge) device, but I wouldn't mind what I buy now be future proof for new gadgets down the road.
 
-- Buy a bigger battery than I think I'll need, again for future proof. Future devices will need more power. Also, I'd like to potentially charge two devices at one if needed.
+- Buy a bigger battery than you think you'll need, again for future proofing your purchase. Future devices will need more power. Also, I'd like to potentially charge two devices at once if needed.
 
-- Larger capacity batteries needs longer charging time. Some battery packs will take 10+ hours using a 'Standard' wall wart charger...
+- Larger capacity batteries needs longer charging time. Some battery packs will take 10+ hours using a 'Standard' wall wart USB charger...
   - Now I need to buy a quick charge charger now too?!?!?
   - Buy a battery pack that also takes advantage of current best charging options, again to future proof.
   - Consideration:  look at battery pack that includes a charger. Compare those costs against buying charger & battery pack sepreately.
