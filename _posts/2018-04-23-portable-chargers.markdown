@@ -31,7 +31,6 @@ After much research, debate and a good night's sleep, the winner is:
  - Supports [**USB Power Delivery (PD) 3.0** standard](https://en.wikipedia.org/wiki/USB-C#USB_Power_Delivery_specification USB-C)
  - Can charge devices using PD, and be charged using PD
  - Comes with a 30W PD charger: [Anker USB Type-C with Power Delivery 30W USB Wall Charger, PowerPort Speed 1](http://a.co/42QTpA9)
- Speed 1
  - Can be used to charge a macbook laptop
  - Popular solution for charging a Nintendo Switch (now I have a good excuse to get a Switch!)
  - Anker has always made solid chargers, I feel comfortable trying out their battery bank solution.
