@@ -18,4 +18,4 @@ Some things you can expect to find within these writings:
 - MacOS
 
 More to come, thanks for stopping by.
-
+---
